@@ -1,2 +1,9 @@
 /* Alex Hirota, ID: 46872792 */
 
+body { 
+	padding-top: 50px; 
+}
+
+h1, p {
+    text-align: center;
+}
