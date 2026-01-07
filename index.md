@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  name: "Alex Hirota"
-  text: "Portfolio Site"
-  tagline: My great project tagline
+  name: "Hi, I'm Alex Hirota"
+  text: "Welcome to my Portfolio"
   actions:
     - theme: brand
       text: Markdown Examples

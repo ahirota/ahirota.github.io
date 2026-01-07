@@ -22,7 +22,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/alex-hirota' },
+      { icon: 'github', link: 'https://github.com/ahirota' }
     ]
   }
 })
