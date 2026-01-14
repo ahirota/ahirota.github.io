@@ -1,3 +1,4 @@
+import Tailwind from '@tailwindcss/vite'
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -13,18 +14,17 @@ export default defineConfig({
           { text: 'Overview', link: '/portfolio' },
           { text: 'Williams-Sonoma, Inc.', link: '/portfolio/wsi' },
           { text: 'Preapp, Co. Ltd.', link: '/portfolio/preapp' },
-          { text: 'Personal Projects', link: '/portfolio/personal' },
+          { text: 'Personal Projects', link: '/portfolio#personal' },
         ]
-      },
-      { text: 'Contact', link: '/contact' }
+      }
     ],
 
+    // Only for Portfolio Project Differentiation
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Portfolio',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          
         ]
       }
     ],
@@ -38,5 +38,10 @@ export default defineConfig({
       message: '"I urge you to please notice when you are happy, and exclaim or murmur or think at some point, \'If this isn\'t nice, I don\'t know what is\'" - Kurt Vonnegut',
       copyright: 'Copyright © 2026-present Alex Hirota'
     }
+  },
+  vite: {
+    plugins: [
+      Tailwind()
+    ]
   }
 })
