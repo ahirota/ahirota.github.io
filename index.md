@@ -20,12 +20,12 @@ hero:
       rel: noreferrer
 features:
   - title: Adaptable & Resourceful
-    details: I've worked with many different tools, in many different environments. I can quickly adapt and start contributing with little hand holding, and if I don't know the answer, I read voraciously and experiment quickly to figure it out.
+    details: Any tool, any environment. I can quickly learn and start contributing with little hand holding. These are some of my key strengths, let me show you what I've done so far.
     link: /portfolio#professional
     linkText: My Work
 
   - title: Communicative
-    details: I pride myself on my ability to communicate effectively to both technical and non-technical members alike. I've created thorough documentation for my past employers, and I can speak fluent Corporate.
+    details: Communication is key. I can communicate effectively to both technical and non-technical members alike. I've created thorough documentation for my past employers, and I have excellent written and verbal communication with stakeholders of all levels.
 
   - title: Constant Learner
     details: I try to stay up to date with tools, technology, and constantly try to refresh and learn new things. Check out some of my personal things I've built.
