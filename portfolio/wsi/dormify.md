@@ -1,0 +1,3 @@
+# Dormify
+
+For the Dormify Mini-site, Williams-Sonoma, Inc. acquired Dormify, a smaller brand based on the Shopify platform. The CTO of Williams-Sonoma asked my supervisor for assistance from one or two developers that had Shopify experience and cited a day's worth of work. However, after agreeing to assist it became apparent that the request was actually to fully overhaul the site and put up a temporary one instead. With the marketing deadline only a week away, my partner developer and I completely overhauled the site, stripping it down, restyling, and writing some custom shopify templates and components to meet the deadline. We launched on time, with only minor callouts to text and legal copy, and received personal thank yous from the CTO and the Brand Managers.

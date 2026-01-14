@@ -3,15 +3,12 @@
 </script>
 
 <style lang="scss">
-    #card-header {
-
-    }
-
     #contact-card {
         background-color: var(--vp-c-bg-soft);
 
         a {
             text-decoration: none;
+            color: var(--vp-c-text-1);
 
             &:hover {
                 color: var(--vp-c-brand-1);
