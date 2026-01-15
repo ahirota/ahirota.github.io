@@ -55,7 +55,14 @@ export default defineConfig({
           { text: 'Overview', link: '/portfolio#personal' },
         ]
       },
-      { text: 'Resume', link: '/assets/resume.pdf' },
+      {
+        text: 'Quick Links',
+        items: [
+          { text: 'LinkedIn', link: 'https://www.linkedin.com/in/alex-hirota/' },
+          { text: 'Github', link: 'https://github.com/ahirota' },
+          { text: 'Resume', link: '/assets/resume.pdf' },
+        ]
+      },
     ],
 
     socialLinks: [
