@@ -15,6 +15,7 @@ export default defineConfig({
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/favicon-32x32.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Portfolio',
@@ -33,15 +34,15 @@ export default defineConfig({
         text: 'Williams-Sonoma, Inc.',
         items: [
           { text: 'Overview', link: '/portfolio#wsi' },
-          { text: 'PB Teen Deep Dive', link: '/portfolio/wsi/pbt' },
-          { text: 'Dormify Deep Dive', link: '/portfolio/wsi/dormify' },
+          { text: 'PB Teen', link: '/portfolio/wsi/pbt' },
+          { text: 'Dormify', link: '/portfolio/wsi/dormify' },
         ]
       },
       {
         text: 'Preapp Co., Ltd.',
         items: [
           { text: 'Overview', link: '/portfolio#preapp' },
-          { text: 'EC Supplement', link: '/portfolio/preapp/pbt' },
+          { text: 'EC Supplement', link: '/portfolio/preapp/ecsupli' },
           { text: 'Linkbox', link: '/portfolio/preapp/linkbox' },
           { text: 'Suitescript', link: '/portfolio/preapp/suitescript' },
           { text: 'Tangleteezer Japan', link: '/portfolio/preapp/tangleteezer' },

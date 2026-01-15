@@ -139,3 +139,10 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/**
+ * Custom Doc Styling
+ * -------------------------------------------------------------------------- */
+
+.content-container p img {
+  margin: 0 auto;
+}

@@ -1,4 +1,9 @@
-# Pottery Barn Teen
-There's tons of stuff I did
+---
+prev: false
+---
 
-My proudest achievements there were the Dorm Wishlist Feature, and the Dormify Mini-site I had to set up. For the Dorm Wishlist Feature, my responsibilities were mainly to create, style, and launch the feature pages for customers and I did not work on the backend logic for this feature. However, the reason I’m proud of this is more about my ability to step in as project coordinator during a tumultuous release for this feature. Proper deadlines and release necessities (including a major service update) were not communicated properly and I picked up the slack to align all the necessary parts for a smooth launch of that feature.
+# Pottery Barn Teen
+
+
+
+<ContactCard />
