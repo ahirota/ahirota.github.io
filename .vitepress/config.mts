@@ -31,14 +31,6 @@ export default defineConfig({
     // Only for Portfolio Project Differentiation
     sidebar: [
       {
-        text: 'Williams-Sonoma, Inc.',
-        items: [
-          { text: 'Overview', link: '/portfolio#wsi' },
-          { text: 'PB Teen', link: '/portfolio/wsi/pbt' },
-          { text: 'Dormify', link: '/portfolio/wsi/dormify' },
-        ]
-      },
-      {
         text: 'Preapp Co., Ltd.',
         items: [
           { text: 'Overview', link: '/portfolio#preapp' },
@@ -47,6 +39,14 @@ export default defineConfig({
           { text: 'Suitescript', link: '/portfolio/preapp/suitescript' },
           { text: 'Tangleteezer Japan', link: '/portfolio/preapp/tangleteezer' },
           { text: 'Preapp Virtual Office', link: '/portfolio/preapp/preappvo' },
+        ]
+      },
+      {
+        text: 'Williams-Sonoma, Inc.',
+        items: [
+          { text: 'Overview', link: '/portfolio#wsi' },
+          { text: 'PB Teen', link: '/portfolio/wsi/pbt' },
+          { text: 'Dormify', link: '/portfolio/wsi/dormify' },
         ]
       },
       {

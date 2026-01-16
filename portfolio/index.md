@@ -1,5 +1,4 @@
 ---
-layout: doc
 prev: false
 next: false
 ---
@@ -10,7 +9,29 @@ Hi, I'm Alex. I'm a software developer with over 7 years of experience doing a v
 ## Professional Career {#professional}
 I've held two major jobs for my professional career in the E-Commerce sector. While my roles have been different, my strengths of adaptability, resourcefulness, and communication have aided me well. I've been able to jump right in and start contributing, and have built great relationships with my fellow employees and supervisors. 
 
-### Williams-Sonoma, Inc. (San Francisco, California, June 2022 - August 2025) {#wsi}
+### Software Engineer @ Preapp Co., Ltd. {#preapp}
+My first job I lived and worked for a small e-commerce company in Yokohama, Japan. While there, I worked as a Software Engineer and was promoted to Lead in my third year. I built and maintained systems, launched websites, experimented with technologies, and even managed interns.
+
+My main responsibilities and highlights included:
+- Developed web crawler application with Laravel, Python, MySQL to aggregate E-Commerce Ranking Data
+- Developed Application with Laravel/Python/MySQL to connect multiple E-Commerce APIs to Netsuite ERP
+- Developed an internal application using API interfaces to synchronize inventory across 8 e-commerce platforms.
+- Extend Netsuite ERP functionality with Suitescript to automate laborious business tasks
+- Relaunched Tangleteezer JP e-commerce website responsible for 30% of product sales since renewal launch.
+- Developed Virtual Office Application with Firebase/Vue.js to facilitate hybrid/remote work during pandemic
+- Developed and deployed Shopify sites to support localized Japanese business
+- Deployed four Wordpress CMS installations as both standalone sites and sub-systems internal to Sales Platform
+
+#### Key Projects with Some Code Samples
+Here's a list of some the projects I built with and some code samples. 
+- [EC Supplement](/portfolio/preapp/ecsupli)
+- [Linkbox](/portfolio/preapp/linkbox)
+- [Netsuite Suitescript](/portfolio/preapp/suitescript)
+- [Tangleteezer JP](/portfolio/preapp/tangleteezer)
+- [Preapp Virtual Office](/portfolio/preapp/preappvo)
+
+
+### Front End Developer @ Williams-Sonoma, Inc. {#wsi}
 During my time at Williams-Sonoma, Inc. (WSI) I was a Contracted Senior Frontend Developer for the Pottery Barn Teen (PB Teen) brand and I was responsible for weekly updates to the PB Teen website. These updates included launching email campaign capture pages, feature pages for new product launches, and general site maintenance/redesign. 
 
 My main responsibilities included:
@@ -25,12 +46,6 @@ My main responsibilities included:
 
 [Here's a closer look at what I did for Dormify.](/portfolio/wsi/dormify)
 
-  
-### Preapp Co., Ltd. (Yokohama, Japan, July 2017 - December 2021) {#preapp}
-- Blurb about what I did
-- What I learned
-- Main Projects/Work Site stuff
-- Link to more detailed stuff
 
 ## Personal Projects and Learning Things {#personal}
 In my free time I like to build and learn new things. My latest projects in 
