@@ -14,22 +14,18 @@ My first job I lived and worked for a small e-commerce company in Yokohama, Japa
 
 My main responsibilities and highlights included:
 - Developed web crawler application with Laravel, Python, MySQL to aggregate E-Commerce Ranking Data
+  - [EC Supplement](/portfolio/preapp/ecsupli)
 - Developed Application with Laravel/Python/MySQL to connect multiple E-Commerce APIs to Netsuite ERP
+  - [Linkbox](/portfolio/preapp/linkbox)
 - Developed an internal application using API interfaces to synchronize inventory across 8 e-commerce platforms.
 - Extend Netsuite ERP functionality with Suitescript to automate laborious business tasks
+  - [Netsuite Suitescript](/portfolio/preapp/suitescript)
 - Relaunched Tangleteezer JP e-commerce website responsible for 30% of product sales since renewal launch.
+  - [Tangleteezer JP](/portfolio/preapp/tangleteezer)
 - Developed Virtual Office Application with Firebase/Vue.js to facilitate hybrid/remote work during pandemic
+  - [Preapp Virtual Office](/portfolio/preapp/preappvo)
 - Developed and deployed Shopify sites to support localized Japanese business
 - Deployed four Wordpress CMS installations as both standalone sites and sub-systems internal to Sales Platform
-
-#### Key Projects with Some Code Samples
-Here's a list of some the projects I built with and some code samples. 
-- [EC Supplement](/portfolio/preapp/ecsupli)
-- [Linkbox](/portfolio/preapp/linkbox)
-- [Netsuite Suitescript](/portfolio/preapp/suitescript)
-- [Tangleteezer JP](/portfolio/preapp/tangleteezer)
-- [Preapp Virtual Office](/portfolio/preapp/preappvo)
-
 
 ### Front End Developer @ Williams-Sonoma, Inc. {#wsi}
 During my time at Williams-Sonoma, Inc. (WSI) I was a Contracted Senior Frontend Developer for the Pottery Barn Teen (PB Teen) brand and I was responsible for weekly updates to the PB Teen website. These updates included launching email campaign capture pages, feature pages for new product launches, and general site maintenance/redesign. 
