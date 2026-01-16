@@ -21,7 +21,6 @@ My main responsibilities included:
 - Maintaining clean code-base through Github and tracking issues with JIRA/Task boards.
 - Serving as liaison between non-technical and technical teams.
 
-
 [Here's a closer look at what I did on PB Teen.](/portfolio/wsi/pbt)
 
 [Here's a closer look at what I did for Dormify.](/portfolio/wsi/dormify)
