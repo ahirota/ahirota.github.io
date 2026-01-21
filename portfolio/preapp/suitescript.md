@@ -5,6 +5,9 @@ At Preapp, Netsuite was our source truth and all of our critical business inform
 
 While this isn't all of them, here's a few choice scripts that demonstrate some of my Suitescript experience.
 
+The main tools and technologies used are:
+- Suitescript 2.X
+
 ## User Events/Alerts
 Here's a few examples for Users Events/Alert Messages
 

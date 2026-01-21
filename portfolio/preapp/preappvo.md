@@ -5,6 +5,11 @@ next: false
 # Preapp Virtual Office
 When the pandemic hit, our company immediately instituted Work From Home and Hybrid schedules. However, we wanted a way to stay connected as though we were in the office. Initially we tried Google Meets, Zoom, and other systems combined with our chats but we were unsatisfied. We decided to build our own platform that would be able to facilitate our work.
 
+The main tools and technologies used are:
+- Vue.js
+- Nuxt.js
+- Firebase
+
 ## Design
 The main issue we wanted to solve was a visual representation of yourself when you were working, and grouped users by who was working, and who was offline. Using Nuxt and Firebase we were able to leverage client side state management with the cloud database to ensure that updates were happening in real time.
 
@@ -48,7 +53,7 @@ The main office breakdown template is below, with the main user on the sidebar, 
 
 Thanks to Vuex, we're able to add reactivity to each of the getters, filtering the collection of users in realtime and displaying the appropriate users.
 
-```js
+```js{2,17,32,40}
 export const getters = {
   filteredInOffice(state, getters, rootState) {
     const filtered = state.availableUsers.filter((user) => {
@@ -105,9 +110,9 @@ export const getters = {
   }
 };
 ```
-Here's some code for using a Snapshot on the Users collection in Firestore to real time update the list of users as they come online or go offline, which then gets parsed and displayed thanks to the reactivity of the getters.
+Here's some code for using a Snapshot on the Users collection in Firestore to real time update the list of users as they come online or go offline, which then gets parsed and commited to the store variables with commits, and then displayed thanks to the reactivity of the getters.
 
-```js
+```js{2,5,18,20}
 export const actions = {
   getUsers({ state, commit }, { vm }) {
     const unsubscribe = this.$fireStore.collection('users')

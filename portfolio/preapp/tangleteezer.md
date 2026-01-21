@@ -1,8 +1,15 @@
 # Tangleteezer Japan
-Tangleteezer Japan is the japanese branch of the Tangleteezer hairbrush brand. When we relaunch the site, we needed a standlaone platform that could be used for e-commerce, but also had the ability to create content for newsletters and how-to articles. Given that Shopify was not yet as widely used, we had to come up with a custom solution to achieve the deisred output.
+Tangleteezer Japan is the japanese branch of the Tangleteezer hairbrush brand. When we relaunch the site, we needed a standlaone platform that could be used for e-commerce, but also had the ability to create content for newsletters and how-to articles. Given that Shopify was not yet as widely used, we had to come up with a custom solution to achieve the desired output.
+
+The main tools and technologies used are:
+- PHP
+  - [EC-Cube](https://github.com/ec-cube)
+  - Wordpress
+- MySQL
+- Docker
 
 ## Custom Solution, Wordpress sub-system
-The solution we came up with was to install Wordpress as a subsystem within the E-Commerce platform we chose. This made the most sense for our use case as Wordpress was easy to install and deploy and was written in PHP, the same language the main E-Commerce system was written. 
+The solution we came up with was to install Wordpress as a subsystem within EC-Cube, the open source E-Commerce platform we chose. This made the most sense for our use case as Wordpress was easy to install and deploy, and perhaps more importantly, is based on PHP, and thus shared a common programming language with EC-Cube.
 
 ![System Diagram for Tangleteezer JP](/assets/preapp/ttjp.png)
 
