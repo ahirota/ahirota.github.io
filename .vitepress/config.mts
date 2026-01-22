@@ -61,7 +61,7 @@ export default defineConfig({
         items: [
           { text: 'LinkedIn', link: 'https://www.linkedin.com/in/alex-hirota/' },
           { text: 'Github', link: 'https://github.com/ahirota' },
-          { text: 'Resume', link: '/resume.pdf' },
+          { text: 'Resume', link: '/resume.pdf', target: "_blank" },
         ]
       },
     ],
