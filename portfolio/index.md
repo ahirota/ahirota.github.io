@@ -28,18 +28,18 @@ My main responsibilities included:
 My first job I lived and worked for a small e-commerce company in Yokohama, Japan. While there, I worked as a Software Engineer and was promoted to Lead in my third year. I built and maintained systems, launched websites, experimented with technologies, and even managed interns.
 
 My main responsibilities and highlights included:
+- Developed Virtual Office Application with Firebase/Vue.js to facilitate hybrid/remote work during pandemic
+  - [Preapp Virtual Office](/portfolio/preapp/preappvo)
+- Extend Netsuite ERP functionality with Suitescript to automate laborious business tasks
+  - [Netsuite Suitescript](/portfolio/preapp/suitescript)
+- Relaunched Tangleteezer JP e-commerce website responsible for 30% of product sales since renewal launch.
+  - [Tangleteezer JP](/portfolio/preapp/tangleteezer)
 - Developed web crawler application with Laravel, Python, MySQL to aggregate E-Commerce Ranking Data
   - [EC Supplement](/portfolio/preapp/ecsupli)
 - Developed Application with Laravel/MySQL to connect multiple E-Commerce APIs to Netsuite ERP and Synchronize Data
   - [Linkbox](/portfolio/preapp/zsync)
 - Developed an internal application using API interfaces to synchronize inventory across 8 e-commerce platforms.
   - [Data Diver](/portfolio/preapp/datadiver)
-- Extend Netsuite ERP functionality with Suitescript to automate laborious business tasks
-  - [Netsuite Suitescript](/portfolio/preapp/suitescript)
-- Relaunched Tangleteezer JP e-commerce website responsible for 30% of product sales since renewal launch.
-  - [Tangleteezer JP](/portfolio/preapp/tangleteezer)
-- Developed Virtual Office Application with Firebase/Vue.js to facilitate hybrid/remote work during pandemic
-  - [Preapp Virtual Office](/portfolio/preapp/preappvo)
 - Developed and deployed Shopify sites to support localized Japanese business
 - Deployed four Wordpress CMS installations as both standalone sites and sub-systems internal to Sales Platform
 

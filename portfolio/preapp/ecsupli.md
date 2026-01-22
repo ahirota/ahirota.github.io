@@ -1,7 +1,3 @@
----
-prev: false
----
-
 # EC Supplement
 Full Breakdown Coming Soon
 

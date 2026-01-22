@@ -42,12 +42,12 @@ export default defineConfig({
         text: 'Preapp Co., Ltd.',
         items: [
           { text: 'Overview', link: '/portfolio#preapp' },
+          { text: 'Preapp Virtual Office', link: '/portfolio/preapp/preappvo' },
+          { text: 'Suitescript', link: '/portfolio/preapp/suitescript' },
+          { text: 'Tangleteezer Japan', link: '/portfolio/preapp/tangleteezer' },
           { text: 'EC Supplement', link: '/portfolio/preapp/ecsupli' },
           { text: 'Data Diver', link: '/portfolio/preapp/datadiver' },
           { text: 'Linkbox', link: '/portfolio/preapp/zsync' },
-          { text: 'Suitescript', link: '/portfolio/preapp/suitescript' },
-          { text: 'Tangleteezer Japan', link: '/portfolio/preapp/tangleteezer' },
-          { text: 'Preapp Virtual Office', link: '/portfolio/preapp/preappvo' },
         ]
       },
       {
