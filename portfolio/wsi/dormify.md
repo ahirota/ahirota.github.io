@@ -5,6 +5,13 @@ next: false
 # Dormify
 Dormify is a brand that was acquired by Williams-Sonoma, Inc. in May of 2025. It was built up to that point on the Shopify platform but the plans were to bring it into the wider WSI ecosystem. In order to rebrand under WSI, Dormify needed a fast launch of an interim site that could be built on top of the existing Shopify structure. My partner and I were asked to volunteer due to our previous experience with Shopify. 
 
+The main tools and technologies used are:
+- Shopify
+  - Liquid
+- HTML
+- CSS
+- Javascript
+
 ## Main Issues
 The CTO of Williams-Sonoma asked my supervisor for assistance from one or two developers that had Shopify experience and cited a day's worth of work. However, after agreeing to assist it became apparent that the request was actually to fully overhaul the site and put up a temporary one instead.
 

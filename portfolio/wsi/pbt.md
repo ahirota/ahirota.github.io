@@ -5,6 +5,13 @@ prev: false
 # Pottery Barn Teen
 My main role at WSI was doing front end development for the Pottery Barn Teen brand. Anything that dealt with the actual content of the site was under our purview. We utilized `HTML`, `CSS`, `Javascript`, and `Vue.js` to accomplish our tasks. We also worked extensively with Adobe Experience Manager as a CMS for some of our dynamic content on the site. 
 
+The main tools and technologies used are:
+- Adobe Experience Manager
+- HTML
+- CSS
+- Javascript
+- Vue.js
+
 ## The Regular Routine
 To give a sense of our process, we used JIRA and Agile practices in collaboration with our cross functional teams to push changes to the site on a weekly basis. 
 
