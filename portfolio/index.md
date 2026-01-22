@@ -30,9 +30,10 @@ My first job I lived and worked for a small e-commerce company in Yokohama, Japa
 My main responsibilities and highlights included:
 - Developed web crawler application with Laravel, Python, MySQL to aggregate E-Commerce Ranking Data
   - [EC Supplement](/portfolio/preapp/ecsupli)
-- Developed Application with Laravel/Python/MySQL to connect multiple E-Commerce APIs to Netsuite ERP
-  - [Linkbox](/portfolio/preapp/linkbox)
+- Developed Application with Laravel/MySQL to connect multiple E-Commerce APIs to Netsuite ERP and Synchronize Data
+  - [Linkbox](/portfolio/preapp/zsync)
 - Developed an internal application using API interfaces to synchronize inventory across 8 e-commerce platforms.
+  - [Data Diver](/portfolio/preapp/datadiver)
 - Extend Netsuite ERP functionality with Suitescript to automate laborious business tasks
   - [Netsuite Suitescript](/portfolio/preapp/suitescript)
 - Relaunched Tangleteezer JP e-commerce website responsible for 30% of product sales since renewal launch.
@@ -43,12 +44,28 @@ My main responsibilities and highlights included:
 - Deployed four Wordpress CMS installations as both standalone sites and sub-systems internal to Sales Platform
 
 ## Personal Projects and Learning Things {#personal}
-In my free time I like to build and learn new things. My latest projects in 
+In my free time I like to build and learn new things. Check out some recent things I've done.
 
 ### Electron + Vue Computer Resource HUD
-- Small Blurb + Link to GH
+I wanted to start learning Electron to make some small things for myself. Here's a Cyberpunk themed CPU Resource:
+- Main tools and technologies:
+  - Electron
+  - Typescript
+  - Vue.js
+  - Vite
+- [Github Link](https://github.com/ahirota/character-generator)
 
 ### Boot Dev Projects
-- Python CLI Character Generator for Dungeon's and Dragons + Link to GH
+I'm a part of the Boot.dev community and I've built a few things there:
+- Python CLI Character Generator for Dungeon's and Dragons.
+  - Main tools and technologies:
+    - Python
+  - [Github Link](https://github.com/ahirota/character-generator)
+- More Coming Soon
+
+### MORE COMING SOON
+I have more that I'll post about but those will come later.
+
+In the meantime, check out my [Github](https://github.com/ahirota).
 
 <ContactCard />

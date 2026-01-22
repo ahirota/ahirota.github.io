@@ -43,7 +43,8 @@ export default defineConfig({
         items: [
           { text: 'Overview', link: '/portfolio#preapp' },
           { text: 'EC Supplement', link: '/portfolio/preapp/ecsupli' },
-          { text: 'Linkbox', link: '/portfolio/preapp/linkbox' },
+          { text: 'Data Diver', link: '/portfolio/preapp/datadiver' },
+          { text: 'Linkbox', link: '/portfolio/preapp/zsync' },
           { text: 'Suitescript', link: '/portfolio/preapp/suitescript' },
           { text: 'Tangleteezer Japan', link: '/portfolio/preapp/tangleteezer' },
           { text: 'Preapp Virtual Office', link: '/portfolio/preapp/preappvo' },

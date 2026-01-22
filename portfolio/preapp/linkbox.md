@@ -1,3 +1,0 @@
-# Linkbox
-
-<ContactCard />
