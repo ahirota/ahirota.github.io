@@ -89,7 +89,7 @@
                     Github
                 </div>
             </a>
-            <a class="grow" href="/assets/resume.pdf" target="_blank" rel="noreferrer">
+            <a class="grow" href="/resume.pdf" target="_blank" rel="noreferrer">
                 <div class="rounded-xl px-6 py-3 h-full flex items-center border">
                     <span id="resume-icon" class="icon mr-1"></span>
                     Resume
