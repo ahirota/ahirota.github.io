@@ -7,7 +7,7 @@ hero:
   text: "Welcome to my Portfolio"
   tagline: Stop in and say hi!
   image:
-    src: ./assets/profile_pic.png
+    src: /profile_pic.png
     alt: Profile Picture of Alex Hirota
   actions:
     - theme: brand
