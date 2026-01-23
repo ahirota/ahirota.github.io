@@ -14,7 +14,6 @@ export default defineConfig({
   ],
   cleanUrls: true,
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     logo: '/favicon-32x32.png',
     nav: [
       { text: 'Home', link: '/' },
@@ -28,7 +27,6 @@ export default defineConfig({
       }
     ],
 
-    // Only for Portfolio Project Differentiation
     sidebar: [
       {
         text: 'Williams-Sonoma, Inc.',
