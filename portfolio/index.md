@@ -58,10 +58,31 @@ I wanted to start learning Electron to make some small things for myself. Here's
 ### Boot Dev Projects
 I'm a part of the Boot.dev community and I've built a few things there:
 - Python CLI Character Generator for Dungeon's and Dragons.
-  - Main tools and technologies:
-    - Python
+  - Built as Personal Project - Zero Guidance
+  - Pure Python Based with InquirerPy Package
   - [Github Link](https://github.com/ahirota/character-generator)
-- More Coming Soon
+- Static Site Generator
+  - Guided Project to familiarize with OOP and TDD
+  - Generates Static HTML Files from Markdown
+  - [Github Link](https://github.com/ahirota/static-generator)
+- Asteroids
+  - Guided Project to familiarize with OOP and Game Loop
+  - Remake of Asteroids with PyGame
+  - [Github Link](https://github.com/ahirota/asteroids_v2)
+- AI Agent
+  - Guided Project to familiarize with Prompt Engineering
+  - Small AI Agent that can:
+    - List files and directories
+    - Read file contents
+    - Write or overwrite files
+    - Execute Python files with optional arguments
+  - [Github Link](https://github.com/ahirota/aiagent)
+
+### Tutorial Hell
+While they aren't impressive, there's lots of tutorials that I've run through to help familiarize myself with new technology.
+- React Dashboard:
+  - Next.js based Dashboard App
+  - [Github Link](https://github.com/ahirota/react-dashboard)
 
 ### MORE COMING SOON
 I have more that I'll post about but those will come later.
